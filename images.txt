@@ -1,2 +1,2 @@
-# open-webui镜像
+# open-webui
 ghcr.io/open-webui/open-webui:main
