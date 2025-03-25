@@ -1,2 +1,4 @@
 # open-webui
-ghcr.io/open-webui/open-webui:main
+ghcr.io/teableio/teable:latest
+ghcr.io/teableio/teable-db-migrate:latest
+postgres:15.4
