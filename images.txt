@@ -1,4 +1,1 @@
-# open-webui
-ghcr.io/teableio/teable:latest
-ghcr.io/teableio/teable-db-migrate:latest
-postgres:15.4
+docker.getoutline.com/outlinewiki/outline:latest
