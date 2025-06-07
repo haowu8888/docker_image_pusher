@@ -1,1 +1,1 @@
-xhofe/alist:latest
+javaow/tailscale-derp
