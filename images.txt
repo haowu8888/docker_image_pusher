@@ -1,1 +1,1 @@
-javaow/tailscale-derp
+tailscale/tailscale:latest
