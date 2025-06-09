@@ -1,1 +1,1 @@
-alist:v3.41.0
+alist666/alist:3.45.0
