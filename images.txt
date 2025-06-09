@@ -1,1 +1,1 @@
-tailscale/tailscale:latest
+alist666/alist:v3.45.0
