@@ -1,1 +1,1 @@
-gdy666/lucky:2.17.8
+xhofe/alist:v3.40.0
