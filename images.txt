@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1
+svhd/logto:1.22.0
