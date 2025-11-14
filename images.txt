@@ -1,1 +1,1 @@
-adguard/adguardhome
+ghcr.io/sillytavern/sillytavern:latest
