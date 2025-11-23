@@ -1,1 +1,1 @@
-idootop/migpt-next:latest
+cloudreve/cloudreve:latest
