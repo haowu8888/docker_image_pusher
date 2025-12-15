@@ -1,1 +1,1 @@
-ghcr.io/zhongruan0522/antigravity2api-node-js:latest
+thesmallhancat/flow2api:latest
