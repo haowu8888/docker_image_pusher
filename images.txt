@@ -1,1 +1,1 @@
-caomingjun/warp
+ghcr.io/zephyruso/zashboard:latest
