@@ -1,1 +1,1 @@
-ghcr.io/zephyruso/zashboard:latest
+thesmallhancat/sora2api:latest
