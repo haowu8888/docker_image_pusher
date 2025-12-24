@@ -1,1 +1,1 @@
-zerodeng/sublink-pro
+thesmallhancat/sora2api:latest
