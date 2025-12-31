@@ -1,1 +1,1 @@
-thesmallhancat/sora2api:latest
+ghcr.io/dext7r/kirogate:main
