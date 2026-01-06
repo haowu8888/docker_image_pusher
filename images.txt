@@ -1,1 +1,1 @@
-ghcr.io/dext7r/kirogate:main
+tradingagents-backend:v1.0.0-preview
