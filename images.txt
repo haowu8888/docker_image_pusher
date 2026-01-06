@@ -1,1 +1,1 @@
-tradingagents-backend:v1.0.0-preview
+ghcr.io/666ghj/bettafish:latest
