@@ -1,1 +1,1 @@
-ghcr.io/666ghj/bettafish:latest
+ghcr.io/chenyme/grok2api:latest
