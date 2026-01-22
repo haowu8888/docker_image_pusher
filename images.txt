@@ -1,1 +1,1 @@
-ghcr.io/chenyme/grok2api:latest
+ccr.ccs.tencentyun.com/jianzhichu/dysync:beta_1.9.9
