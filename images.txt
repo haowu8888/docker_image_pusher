@@ -1,1 +1,1 @@
-ghcr.io/jwy87/simplehub:latest
+eceasy/cli-proxy-api:latest
