@@ -1,1 +1,1 @@
-eceasy/cli-proxy-api:latest
+weishaw/sub2api:latest
