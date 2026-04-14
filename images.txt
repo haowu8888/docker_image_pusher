@@ -1,1 +1,1 @@
-weishaw/sub2api:latest
+redis:8-alpine
