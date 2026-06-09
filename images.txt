@@ -1,1 +1,1 @@
-ghcr.io/sillytavern/sillytavern:latest
+ghcr.io/sillytavern/sillytavern:1.18.0
