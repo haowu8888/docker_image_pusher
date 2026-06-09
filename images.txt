@@ -1,1 +1,1 @@
-redis:8-alpine
+ghcr.io/sillytavern/sillytavern:latest
