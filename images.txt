@@ -1,1 +1,1 @@
-twwch/aicomicbuilder:latest
+docker.io/gloridust/woc-panel:latest
